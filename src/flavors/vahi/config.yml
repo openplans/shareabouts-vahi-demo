@@ -1,9 +1,9 @@
 # Settings for the app
 app:
   # HTML Title
-  title: Virginia-Highland Master Plan
+  title: VaHi Shareabouts Demo
   # Header name
-  name: Virginia-Highland Master Plan
+  name: VaHi
   # Meta description that will show up in Google search results
   meta_description: _(Use the map to record and share the things you love about Virginia-Highland and the things you want to see changed or fixed in Virginia-Highland.)
 
